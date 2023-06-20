@@ -1,0 +1,24 @@
+{
+    "animals":[
+        {
+        "id":1,
+        "species":"WHALE"
+        },
+        {
+        "id":2,
+        "species":"POLAR BEAR"
+        },
+        {
+        "id":3,
+        "species":"CAT"
+        },
+        {
+        "id":4,
+        "species":"SNAKE"
+        },
+        {
+        "id":5,
+        "species":"SPIDER"
+        }
+    ]
+}
